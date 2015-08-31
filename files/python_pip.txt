@@ -1,0 +1,6 @@
+requests
+ipython
+redis
+torndb
+pyflakes
+netaddr
